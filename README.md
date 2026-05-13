@@ -3,10 +3,10 @@
 Este repositorio contiene el código y análisis para la Tarea 6 del curso, enfocada en resolver un problema de clasificación multiclase utilizando algoritmos de Machine Learning. 
 
 ## 👥 Integrantes
-* **[Nombre y Apellido del Integrante 1]** - Ignacio Essus
-* **[Nombre y Apellido del Integrante 2]** - Adolfo Gayoso
-* **[Nombre y Apellido del Integrante 3]** - Marcelo Rebolledo
-* **[Nombre y Apellido del Integrante 3]** - Daniel Sepúlveda
+* Ignacio Essus
+* Adolfo Gayoso
+* Marcelo Rebolledo
+* Daniel Sepúlveda
 
 ---
 
