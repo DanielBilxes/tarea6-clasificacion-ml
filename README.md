@@ -36,7 +36,7 @@ El experimento se desarrolló en un Google Colab Notebook siguiendo estas etapas
    * Se entrenaron y evaluaron tres modelos de clasificación:
      * Decision Tree (Árbol de Decisión)
      * Random Forest
-     * K-Nearest Neighbors (KNN)
+     * Matriz de confusión: regresión logística
    * Métricas: Accuracy, Precision (macro), Recall (macro), F1-Score (macro) y Matrices de Confusión.
 
 Resultados Principales:
