@@ -44,5 +44,5 @@ Resultados Principales:
 Tras la ejecución del experimento en el conjunto de prueba, se obtuvieron los siguientes hallazgos:
 
 * Mejor Modelo: El Random Forest demostró ser el algoritmo más robusto, alcanzando el F1-Score más alto y un Accuracy de ~64.5%. Logró predecir con gran eficacia las clases extremas (evaluaciones Bajas y Altas).
-* Modelos Deficientes El modelo *KNN* tuvo el peor desempeño, demostrando que un enfoque basado en distancias geométricas no es adecuado para este dataset altamente categórico (se confundió fuertemente al intentar predecir la clase Alta).
+* Modelos Deficientes El modelo de Regresión Logística tuvo el desempeño más bajo en este experimento. Al analizar su matriz, vemos que le cuesta establecer fronteras claras: distribuye mucho sus errores y, notablemente, de los 11 casos con evaluación Alta (clase 3), casi la mitad (5 casos) los clasificó de manera errónea como evaluación Media (clase 2).
 * Conclusión General: El rendimiento máximo esperado en este dataset es moderado (60-70%) debido a su baja dimensionalidad de registros frente a una alta cantidad de categorías (IDs de cursos y profesores).
